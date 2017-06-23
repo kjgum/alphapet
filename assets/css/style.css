@@ -775,7 +775,7 @@ ul.social-buttons li a {
     border-radius: 50%;
     font-size: 20px;
     line-height: 40px;
-    color: #eae2d1;
+    color: white;
     background-color: #000;
     transition-duration: 0.3s;
     text-align: center;
@@ -911,6 +911,8 @@ a.btn:focus {
 
 /* ---------------------------------------------------------------------------- */
 
-.maps iframe {
-    pointer-events: none;
-}
+
+       #map {
+        height: 400px;
+        width: 400px;
+       }
