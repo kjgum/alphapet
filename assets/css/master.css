@@ -163,7 +163,7 @@ hr.line {
     padding: 0;
     max-width: 90px;
     border: 0;
-    border-top: solid 5px #ddd;
+    border-top: solid 5px #000;
     text-align: center;
 }
 
