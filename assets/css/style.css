@@ -68,6 +68,7 @@ h5,
 h6 {
     font-weight: 600;
     color: #111;
+    font-family: 'Poiret One', cursive;
 }
 
 p {
@@ -413,7 +414,7 @@ body.sub-page .logo {
     text-decoration: none;
     text-transform: uppercase;
     color: #fff;
-    font-family: 'Roboto Slab', serif;
+    font-family: 'Poiret One', cursive;
 }
 
 .heading h2:after {
@@ -465,7 +466,7 @@ body.sub-page .logo {
 
 .box-content.box-1 .box-item h3 {
     color: #363638;
-    font-family: 'Damion', cursive;
+    font-family: 'Poiret One', cursive;
     text-align: center;
     letter-spacing: 5px;
     font-size: 36px;
@@ -473,7 +474,7 @@ body.sub-page .logo {
 
 .box-content.box-1 .box-item p {
     font-size: 15px;
-    color: #816943;
+    color: #000;
     line-height: 25px;
     margin: 10px auto;
 }
@@ -558,6 +559,10 @@ body.sub-page .logo {
     }
 }
 
+
+/*p.hours {
+    padding-left: 50px;
+}*/
 
 /* ---------------------------------------------------------------------------- */
 
@@ -644,7 +649,7 @@ body.sub-page .logo {
 
 .box-content.box-5 .box-item {
     background-color: #F9F9F9;
-    margin-bottom: 30px;
+    /*margin-bottom: 30px;*/
     border: 1px solid #eee;
 }
 
