@@ -929,13 +929,34 @@ purple #ab9bbf
 blue #a9d0cd
 */
 
-td {
-    padding-right: 10px;
-    padding-left: 10px;
+
+footer a {
+    font-size: 10px;
+    text-decoration: none;
 }
 
-.dotLine {
-    border-bottom:4px dotted white;
-    width: 100px;
-    text-align: center;
+footer a:hover {
+    color: black;
+    text-decoration: underline;
 }
+
+    td {
+        padding-right: 10px;
+        padding-left: 10px;
+    }
+    
+    .myFoot {
+        background-color: black;
+        color: white;
+        padding: 10px;
+        font-size: 10px;
+    }
+    
+    .myFoot a {
+        color: white;
+    }
+
+    .myFoot a:hover {
+        color: white;
+        text-decoration: underline;
+    }
