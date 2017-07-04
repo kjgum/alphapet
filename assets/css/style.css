@@ -557,6 +557,8 @@ body.sub-page .logo {
     .portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-name {
         font-size: 22px;
     }
+
+
 }
 
 
@@ -959,4 +961,9 @@ footer a:hover {
     .myFoot a:hover {
         color: white;
         text-decoration: underline;
+    }
+
+
+    .links {
+        text-align: right;
     }

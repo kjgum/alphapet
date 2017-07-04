@@ -1475,7 +1475,9 @@ background-color: #FFF;
         border-radius: 0px;
     }
 
-
+footer {
+    text-align: left;
+}
 
 
 }
@@ -1484,6 +1486,9 @@ background-color: #FFF;
 @media(min-width:768px) {
     #logout {
         float: left;
+    }
+        .links {
+        text-align: right;
     }
 }
 
