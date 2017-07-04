@@ -1,13 +1,3 @@
-/**/
-/* style.css - main page */
-
-
-
-@import url(https://fonts.googleapis.com/css?family=Open+Sans);
-@import url(https://fonts.googleapis.com/css?family=Damion);
-@import url(https://fonts.googleapis.com/css?family=Roboto+Slab);
-
-
 
 body {
     font-family: 'Open Sans', sans-serif;
@@ -461,7 +451,7 @@ body.sub-page .logo {
 
 .box-content.box-1 .box-item h3 {
     color: #363638;
-    font-family: 'Damion', cursive;
+    /*font-family: 'Damion', cursive;*/
     text-align: center;
     letter-spacing: 5px;
     font-size: 36px;

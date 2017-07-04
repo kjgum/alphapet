@@ -1,8 +1,6 @@
-@import url(https://fonts.googleapis.com/css?family=Open+Sans);
-@import url(https://fonts.googleapis.com/css?family=Damion);
-@import url(https://fonts.googleapis.com/css?family=Roboto+Slab);
+/**/
 body {
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Raleway', sans-serif;
     color: #000;
     background-color: #fff;
     font-size: 16px;
@@ -17,6 +15,7 @@ body {
     padding: 0;
     margin: 0;
 }
+
 
 html {
     -webkit-text-size-adjust: none;
@@ -375,7 +374,7 @@ body.sub-page .logo {
 .header-text h1 {
     font-size: 55px;
     line-height: 1.2;
-    font-family: "Roboto Slab", sans-serif;
+    /*font-family: "Roboto Slab", sans-serif;*/
 }
 
 
@@ -533,7 +532,6 @@ body.sub-page .logo {
 .portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-category,
 .portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-name {
     padding: 0 15px;
-    font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
 }
 
 .portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-category {
@@ -966,4 +964,9 @@ footer a:hover {
 
     .links {
         text-align: right;
+    }
+
+
+    #testimonials, #about {
+        line-height: 20px;
     }
